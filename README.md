@@ -28,7 +28,10 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/ruff/black/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/termius/black/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/jest/black/white" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/eslint/black/white" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/eslint/black/white" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/eslint/black/white" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/eslint/black/white" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/black/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/graphql/black/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/prisma/black/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/rust/black/white" />
+<img height="32" width="32" src="https://skillicons.dev/icons?i=vscode" />
+<img height="32" width="32" src="https://skillicons.dev/icons?i=visualstudio" />
