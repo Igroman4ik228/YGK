@@ -5,7 +5,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/bun" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/bun/_/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/github/_/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/gulp" />
