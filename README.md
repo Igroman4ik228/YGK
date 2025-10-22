@@ -29,9 +29,26 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/termius/_/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/jest" />
 
+<img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/archlinux" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linuxmint" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/fedora" />
+
+
 <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/_/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/graphql" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/prisma" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/rust/_/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/flutter" />
 <img height="32" width="32" src="https://skillicons.dev/icons?i=vscode" />
 <img height="32" width="32" src="https://skillicons.dev/icons?i=visualstudio" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/youtube" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/twitch" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/telegram" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/curseforge" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/modrinth" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/buymeacoffee" />
+
