@@ -1,5 +1,5 @@
 # YGK
-<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+<img src="https://cdn.simpleicons.org/react" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/black/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/black/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/black/white" />
