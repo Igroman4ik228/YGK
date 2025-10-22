@@ -7,7 +7,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/npm/black/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/bun/black/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/black/white" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/github/black/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/github" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/gulp/black/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/vite/black/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/sass/black/white" />
