@@ -40,6 +40,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/graphql" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/prisma" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/rust/_/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/dart" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/flutter" />
 <img height="32" width="32" src="https://skillicons.dev/icons?i=vscode" />
 <img height="32" width="32" src="https://skillicons.dev/icons?i=visualstudio" />
