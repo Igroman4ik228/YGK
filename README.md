@@ -26,12 +26,12 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/ruff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/termius_/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/termius/_/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/jest" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs_/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/_/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/graphql" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/prisma" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/rust_/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/rust/_/white" />
 <img height="32" width="32" src="https://skillicons.dev/icons?i=vscode" />
 <img height="32" width="32" src="https://skillicons.dev/icons?i=visualstudio" />
