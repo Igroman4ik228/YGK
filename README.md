@@ -24,8 +24,11 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/reactrouter/black/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/docker/black/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/black/white" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/black/white" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/black/white" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/black/white" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/black/white" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/black/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/fastapi/black/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/ruff/black/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/termius/black/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/jest/black/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/eslint/black/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/eslint/black/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/eslint/black/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/eslint/black/white" />
